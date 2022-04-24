@@ -1,0 +1,14 @@
+body{	background: green}
+.panel{ background: white; margin: 0 auto; width: 800px; padding: 20px; box-shadow: 0px 0px 10px}
+table{	width: 100%; border: 1px}
+h1{ text-align: center; color: green }
+a{ 
+	background: #e6e6e6;
+    color: green;
+    text-decoration: none;
+    padding: 5px 15px;
+    border: 1px solid #c1c1c1;
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+ }
